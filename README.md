@@ -1,19 +1,17 @@
-# leetcode (solutions)
+# hstoklosa/leetcode
 
-A collection of my solutions to LeetCode problems, organised by common patterns and techniques identified by [neetcode](https://neetcode.io/) and [leetcode-patterns](https://seanprashad.com/leetcode-patterns/).
+A collection of my solutions to LeetCode problems, organised by common patterns and techniques.
 
-It is a highly recommended approach for interview prep as it reinforces the ability to recognise the correct algorithm/approach to use for a given problem. To maximise the chance of landing an offer, I'm prioritising the topics that appear most frequently in technical interviews as described [AlgoMonster](https://algo.monster/problems/stats).
+Additionally, I'm prioritising the topics that appear most frequently in technical interviews.
 
-## Importance of Topics
-
-<img src="https://github.com/hstoklosa/braindump/blob/main/interview/images/dsa_roi.png?raw=true" width=600/>
+<img src="https://github.com/hstoklosa/braindump/blob/main/interview/images/dsa_roi.png?raw=true" width=600 />
 
 Source: [algo.monster/problems/stats](https://algo.monster/problems/stats)
 
-## Other Resources
+## Resources
 
 <details>
-<summary>&nbsp;Pattern recognition tips</summary>
+<summary>&nbsp;Tips on patterns</summary>
 <br />
 
 &nbsp;&nbsp;&nbsp;**_IF INPUT ARRAY IS SORTED THEN_**
@@ -70,7 +68,7 @@ Source: [algo.monster/problems/stats](https://algo.monster/problems/stats)
 </details>
 
 <details>
-<summary>&nbsp;Solving coding problems</summary>
+<summary>&nbsp;Other resources</summary>
 
 - [github/tiationg-kho/leetcode-pattern-500](https://github.com/tiationg-kho/leetcode-pattern-500)
 
@@ -80,9 +78,3 @@ Source: [algo.monster/problems/stats](https://algo.monster/problems/stats)
 
 <br />
 </details>
-
-<!-- ## Resources
-
-- [github/tiationg-kho/leetcode-pattern-500](https://github.com/tiationg-kho/leetcode-pattern-500)
-- [Don’t Just LeetCode; Follow the Coding Patterns Instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
-- [Algomaster: LeetCode was HARD until I Learned these 15 Patterns](https://blog.algomaster.io/p/15-leetcode-patterns) -->
