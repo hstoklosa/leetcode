@@ -1,8 +1,8 @@
 """ 
+DIFFICULTY:  Easy
 PROBLEM:     0448. Find All Numbers Disappeared in an Array
              https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
-DIFFICULTY:  Easy
-PATTERN:     Arrays
+PATTERN:     Arrays, Hash Table
 """
 
 class Solution:
